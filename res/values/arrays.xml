@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
     Copyright (C) 2021 WaveOS
+    Copyright (C) 2021 DerpFest
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -29,10 +30,6 @@
         <item>wallpaper_10</item>
         <item>wallpaper_11</item>
         <item>wallpaper_12</item>
-        <item>wallpaper_13</item>
-        <item>wallpaper_14</item>
-        <item>wallpaper_15</item>
-        <item>wallpaper_16</item>
-        <item>wallpaper_17</item>        
+        <item>wallpaper_13</item>        
     </array>
 </resources>

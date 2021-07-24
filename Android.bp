@@ -1,4 +1,5 @@
 // Copyright (C) 2021 WaveOS
+// Copyright (C) 2021 DerpFest
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -13,7 +14,7 @@
 // limitations under the License.
 
 android_app {
-    name: "WaveBalls",
+    name: "DerpWalls",
     resource_dirs: ["res"],
     sdk_version: "current",
     product_specific: true,
